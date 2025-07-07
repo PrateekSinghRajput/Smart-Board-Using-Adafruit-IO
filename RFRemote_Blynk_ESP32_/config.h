@@ -5,7 +5,7 @@
 
 // WiFi credentials
 #define WIFI_SSID     "Prateek"
-#define WIFI_PASS     "justdoelectronics@#12345"
+#define WIFI_PASS     "justdo12345"
 
 #define BLYNK_TEMPLATE_ID "TMPL3j3i5_XL6"
 #define BLYNK_TEMPLATE_NAME "IoT App"
